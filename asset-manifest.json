@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/FashionWeb/static/css/main.da14c628.chunk.css",
+    "main.js": "/FashionWeb/static/js/main.970d06c0.chunk.js",
+    "main.js.map": "/FashionWeb/static/js/main.970d06c0.chunk.js.map",
+    "runtime-main.js": "/FashionWeb/static/js/runtime-main.45dd2928.js",
+    "runtime-main.js.map": "/FashionWeb/static/js/runtime-main.45dd2928.js.map",
+    "static/css/2.ef3a71c5.chunk.css": "/FashionWeb/static/css/2.ef3a71c5.chunk.css",
+    "static/js/2.7a2e59f1.chunk.js": "/FashionWeb/static/js/2.7a2e59f1.chunk.js",
+    "static/js/2.7a2e59f1.chunk.js.map": "/FashionWeb/static/js/2.7a2e59f1.chunk.js.map",
+    "index.html": "/FashionWeb/index.html",
+    "precache-manifest.3fd4998c3b96d58620d6889e09fd4e91.js": "/FashionWeb/precache-manifest.3fd4998c3b96d58620d6889e09fd4e91.js",
+    "service-worker.js": "/FashionWeb/service-worker.js",
+    "static/css/2.ef3a71c5.chunk.css.map": "/FashionWeb/static/css/2.ef3a71c5.chunk.css.map",
+    "static/css/main.da14c628.chunk.css.map": "/FashionWeb/static/css/main.da14c628.chunk.css.map",
+    "static/js/2.7a2e59f1.chunk.js.LICENSE.txt": "/FashionWeb/static/js/2.7a2e59f1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45dd2928.js",
+    "static/css/2.ef3a71c5.chunk.css",
+    "static/js/2.7a2e59f1.chunk.js",
+    "static/css/main.da14c628.chunk.css",
+    "static/js/main.970d06c0.chunk.js"
+  ]
+}
